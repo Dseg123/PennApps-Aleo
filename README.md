@@ -11,3 +11,6 @@ To execute this Aleo program, run:
 ```bash
 snarkvm run hello
 ```
+## Successful Deployment Record
+![image](https://github.com/Dseg123/PennApps-Aleo/assets/41580651/fd936405-44ff-417d-bf37-97f574cc1814)
+
